@@ -4,7 +4,7 @@
 ## 🚀 Overview
 This repository documents a multi-year journey to master the fundamentals of computer science by rebuilding core systems from the ground up. 
 
-In a world of high-level abstractions, this project aims to demystify the "magic" of modern computing. By avoiding AI code generation and focusing on manual implementation in Rust, I seek to gain a profound understanding of the boundary between hardware and software.
+In a world of high-level abstractions, this project aims to demystify the "magic" of modern computing. By focusing on manual implementation in Rust, I seek to gain a profound understanding of the boundary between hardware and software.
 
 ## 🛠 Project Roadmap
 
